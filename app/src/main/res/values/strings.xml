@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">World Clock</string>
+
+    <string name="sydney">Sydney</string>
+    <string name="hongkong">Hong Kong</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="moscow">Moscow</string>
+    <string name="london">London</string>
+    <string name="newyork">New York</string>
+    <string name="twentyFourButton">24hr</string>
+    <string name="twelveButton">12hr</string>
+
+</resources>
